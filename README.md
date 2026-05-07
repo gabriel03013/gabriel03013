@@ -61,7 +61,7 @@ not therapy, not a wellness app. just a place to be heard.
 
 ### 💬 let's talk
 
-I learn fast, break things on purpose, and I'm always down to talk about
+I learn fast and I'm always down to talk about
 tech, music, or some random idea at 2am.
 
 <div align="left">
