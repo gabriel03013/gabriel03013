@@ -31,12 +31,6 @@ I genuinely enjoy both.
 
 <br />
 
-### 🌱 side project
-
-**[Nook](https://github.com/gabriel03013/nook)** — a peer support platform for the hard days.
-not therapy, not a wellness app. just a place to be heard.
-
-<br />
 
 ### 📊 some stats
 
