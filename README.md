@@ -31,18 +31,6 @@ I genuinely enjoy both.
 
 <br />
 
-
-### 📊 some stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=gabriel03013&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F8FF7&icon_color=4F8FF7&text_color=C9D1D9&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel03013&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F8FF7&text_color=C9D1D9&langs_count=8" />
-
-</div>
-
-<br />
-
 ### 🎧 now playing
 
 <div align="left">
