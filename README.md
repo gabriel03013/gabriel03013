@@ -47,7 +47,7 @@ I genuinely enjoy both.
 
 <div align="left">
   <a href="https://open.spotify.com/user/sfth3con5sgebhhfma72cj1e8">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=sfth3con5sgebhhfma72cj1e8&count=5&unique=true" />
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=sfth3con5sgebhhfma72cj1e8&theme=spotify&width=500&radius=15&album=1&footer=wave" />
   </a>
 </div>
 
