@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://www.chainsawman.dog/">
-    <img src="https://i.pinimg.com/736x/a9/a8/53/a9a8533cd3f519ab8928ef5696f16f9a.jpg" width="100%" alt="A pixel-art night workspace with a cat on the monitor" />
-  </a>
+  <img src="https://i.pinimg.com/736x/a9/a8/53/a9a8533cd3f519ab8928ef5696f16f9a.jpg" width="100%" alt="A pixel-art night workspace with a cat on the monitor" />
 
   <h1>Hi 👋, I'm Gabriel Mendes</h1>
   <p><strong>Software Developer @ PicPay</strong></p>
