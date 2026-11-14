@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.chainsawman.dog/">
-    <img src="https://images.weserv.nl/?url=www.chainsawman.dog%2Fassets%2Fportal%2Fimg%2Ftop%2Fvisual%2Fvisual2.webp&amp;w=1400&amp;h=420&amp;fit=cover&amp;a=attention&amp;q=85" width="100%" alt="Chainsaw Man official anime artwork" />
+    <img src="https://i.pinimg.com/736x/a9/a8/53/a9a8533cd3f519ab8928ef5696f16f9a.jpg" width="100%" alt="A pixel-art night workspace with a cat on the monitor" />
   </a>
 
   <h1>Hi 👋, I'm Gabriel Mendes</h1>
@@ -12,7 +12,17 @@
 
 ## 👨‍💻 About Me
 
-I'm a software developer at **PicPay** with a full-stack focus. I enjoy building products end to end — from web and mobile experiences to the APIs and data behind them. I started my journey through **Germinare Tech (Instituto J&F)** and still like learning by shipping.
+<table>
+  <tr>
+    <td width="68%" valign="middle">
+      <p>I'm a software developer at <strong>PicPay</strong> with a full-stack focus. I enjoy building products end to end — from web and mobile experiences to the APIs and data behind them.</p>
+      <p>I started my journey through <strong>Germinare Tech (Instituto J&amp;F)</strong> and still like learning by shipping. I'm especially interested in backend engineering, clean architecture, and practical problem solving.</p>
+    </td>
+    <td width="32%" align="center" valign="middle">
+      <img src="https://i.pinimg.com/736x/3f/50/7d/3f507d842d0df50241ee0c0bce9bcb69.jpg" width="190" alt="A pixel-art ghost floating among stars" />
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Selected Projects
 
