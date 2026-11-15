@@ -22,12 +22,6 @@
   </tr>
 </table>
 
-## 🚀 Selected Projects
-
-- [**Nook**](https://github.com/gabriel03013/nook) — A peer-support platform for hard days, built in the open.
-- [**Prisma TypeScript API**](https://github.com/gabriel03013/prisma-tsc-api) — A Fastify REST API using Prisma and Neon Postgres.
-- [**Golden Spiral Evaluator**](https://github.com/gabriel03013/golden-spiral-evaluator) — A Python image classifier exploring visual composition through the Fibonacci spiral.
-
 ## 🤝 Connect
 
 <div align="center">
